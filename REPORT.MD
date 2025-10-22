@@ -16,8 +16,8 @@ Through this analysis, I gained practical experience in data querying, aggregati
 1. Employee Age and Gender Breakdown
 Using SQL aggregation functions (AVG, MIN, MAX), I explored age distribution across genders.
 - Insight: Found that 63% of employees were middle-aged, with an average age of 42.7 years.
-- *** Gender Comparison: Male employees averaged 44 years, while female employees averaged 39.8 years, indicating a 9.5% difference.
-- *** Achievement: Designed an age summary query that improved HR’s demographic reporting efficiency by 30%, enabling better workforce diversity tracking.
+- **Gender Comparison: Male employees averaged 44 years, while female employees averaged 39.8 years, indicating a 9.5% difference.**
+- **Achievement: Designed an age summary query that improved HR’s demographic reporting efficiency by 30%, enabling better workforce diversity tracking.**
 
 2. Age Group Classification
 I used SQL CASE statements to group employees into Young (≤30), Middle-aged (31–50), and Retirement-ready (51+) categories.
