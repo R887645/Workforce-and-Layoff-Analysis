@@ -11,7 +11,7 @@ Through this analysis, I gained practical experience in data querying, aggregati
 - Simulate salary increases and bonus structures using SQL logic.
 - Merge multiple datasets to generate complete employee profiles.
 - Rank employees by salary and gender to detect pay gaps.
-
+![My Image Description](https://github.com/R887645/Workforce-and-Layoff-Analysis/blob/main/a7d1d408-918d-40ef-904e-23d5c1f7ddd9-9.jpg?raw=true)
 ## Key Insights and Measurable Achievements
 1. Employee Age and Gender Breakdown
 Using SQL aggregation functions (AVG, MIN, MAX), I explored age distribution across genders.
@@ -30,6 +30,8 @@ Applied conditional logic to simulate pay raises and bonuses.
 - Employees earning below $50,000 received a 7% raise, others 5%, and Finance staff earned an additional 10% bonus.
 - **Insight:** The overall simulated payroll increase was 6.3%, resulting in an estimated $210,000 budget impact.
 - **Achievement:** Created a reusable SQL model that automated raise simulations, improving forecast speed by 45%.
+
+![My Image Description](https://github.com/R887645/Workforce-and-Layoff-Analysis/blob/main/a7d1d408-918d-40ef-904e-23d5c1f7ddd9-5.jpg?raw=true)
 
 4. Building Complete Employee Profiles Using JOINs
 Combined demographic, salary, and department tables using various JOINs (INNER, LEFT, RIGHT).
