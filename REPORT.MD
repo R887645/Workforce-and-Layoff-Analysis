@@ -23,6 +23,7 @@ Using SQL aggregation functions (AVG, MIN, MAX), I explored age distribution acr
 I used SQL CASE statements to group employees into Young (≤30), Middle-aged (31–50), and Retirement-ready (51+) categories.
 - **Insight:** 18% of employees were nearing retirement age, signaling a potential leadership gap.
 - **Achievement:** Reduced manual age segmentation time from 25 minutes to 5 minutes per report — an 80% time improvement.
+![My Image Description](https://github.com/R887645/Workforce-and-Layoff-Analysis/blob/main/a7d1d408-918d-40ef-904e-23d5c1f7ddd9-3.jpg?raw=true)
 
 3. Salary Trends and Simulation
 Applied conditional logic to simulate pay raises and bonuses.
